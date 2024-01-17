@@ -7,6 +7,10 @@ https://zenn.dev/daifukuninja/articles/13a35a8bb3a4a1
 - 新規ウィンドウでCtrl+Shift+P でHello worldを実施
 - コンソールログ＋右下のメッセージが出れば成功
 
+# テスト手順
+プロジェクト直下で以下コマンドを実施
+``pnpm run test``
+
 # sample-extension README
 
 This is the README for your extension "sample-extension". After writing up a brief description, we recommend including the following sections.
